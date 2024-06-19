@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: url('img/20211103101423715269.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.btn-primary {
+    background-color: green;
+}
+.btn-primary:hover {
+    background-color: yellow
+}
